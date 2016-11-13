@@ -1,2 +1,6 @@
 # js-dev-env-demo-api
-API for JS Dev Env Demo in Pluralsight course
+API demo hosted on heroku
+
+https://young-chamber-24417.herokuapp.com/
+
+https://young-chamber-24417.herokuapp.com/users
